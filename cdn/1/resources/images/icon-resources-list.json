@@ -1,0 +1,11 @@
+{
+  "Lista": {
+    "svg": "https://experience.arcgis.com/experience/../cdn/2467/widgets/common/list/icon.svg",
+    "properties": {
+      "filename": "Lista",
+      "originalName": null,
+      "path": null,
+      "inlineSvg": true
+    }
+  }
+}
